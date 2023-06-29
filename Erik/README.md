@@ -5,9 +5,9 @@
 Length: 4h 7m
 Due: 6/25/23
 ```
-- [ ] Introduction
-- [ ] Building a Spring Boot Web App
-- [ ] Dependency Injection with Spring
+- [x] Introduction
+- [x] Building a Spring Boot Web App
+- [x] Dependency Injection with Spring
 - [ ] Introduction to Restful Web Services
 #### Week 2:
 ```
